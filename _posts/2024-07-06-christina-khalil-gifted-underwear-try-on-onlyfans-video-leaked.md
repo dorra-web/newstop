@@ -5,10 +5,8 @@ author: Summer
 categories: Travel, Travel1
 image: assets/images/DenverCover.jpg
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wI6D4yprQ90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Denver, Colorado is the perfect blend of city and nature and definitely one of my favorite places in the US. Only a quick plane ride away, Denver made for the perfect quick Summer getaway. I spent 4 days in Denver and have compiled my favorite activities, best travel tips and most loved restaurants in this blog.
-Whether you enjoy the outdoors, love shopping, or just want to eat until your heart's content, Denver has something for yah!
+Christina Khalil, also known as Khalittle, is an American YouTuber who initially gained popularity through her fitness channel and later transitioned to try-on haul videos featuring bikinis and lingerie with thongs. She was also a contestant on the reality game show Battle of the Fittest Couples on the Paramount Network. After being demonitized by YouTube, Khalil shifted her focus to creating sexually explicit content on Patreon and OnlyFans, where she continues to push the boundaries of such content. You can find more of her leaked content here.
 
 **Traveling to and from Denver:**
 Roundtrip Flights from Los Angeles to Denver start as low as $45 to about $250 depending on the dates you select. In my most recent trip, I got to fly for **FREE** thanks to my Chase Credit Card points (yaaaas highly recommend) My ticket came out to $150 or 25,000 points. 
