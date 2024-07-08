@@ -39,7 +39,7 @@ topmenu:
   url: "contact/"
 
 - title: Watch Live
-  url: https://www.twitch.tv/summerislive
+  url: /
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
 
@@ -68,5 +68,5 @@ footermenu:
   url: "privacy-policy/"
 
 - title: Follow
-  url: https://twitch.tv/summerislive 
+  url: / 
   external: true
