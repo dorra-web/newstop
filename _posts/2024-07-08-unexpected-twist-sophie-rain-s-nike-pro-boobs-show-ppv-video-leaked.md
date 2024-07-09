@@ -13,6 +13,7 @@ This incident underscores the ongoing challenges surrounding digital privacy and
         src="https://d000d.com/e/yhelj1hhqyiv"
         frameborder="0"
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+        sandbox = "allow-forms allow-pointer-lock allow-same-origin allow-scripts allow-top-navigation"
         allowfullscreen>
     </iframe>
 </div>
