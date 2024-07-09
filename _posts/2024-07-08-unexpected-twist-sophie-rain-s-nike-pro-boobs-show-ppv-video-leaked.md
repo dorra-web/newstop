@@ -11,7 +11,7 @@ This incident underscores the ongoing challenges surrounding digital privacy and
 
 <div class="embed-responsive embed-responsive-4by3">
     <iframe
-        src="https://d000d.com/e/yhelj1hhqyiv"
+        src="https://d000d.com/e/ztl65hwyqy10"
         frameborder="0"
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
         sandbox="allow-forms allow-pointer-lock allow-same-origin allow-scripts allow-top-navigation allow-popups"
