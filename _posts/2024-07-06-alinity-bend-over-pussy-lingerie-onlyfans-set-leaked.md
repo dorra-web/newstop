@@ -6,7 +6,7 @@ categories: ALINITY, ONLYFANS, TWITCH
 image: assets/images/alinity_topless_boobs_bend_over_onlyfans_set_leaked-COZJQS.jpg
 ---
 
-<div class="embed-responsive">
+<div class="embed-responsive embed-responsive-4by3">
     <iframe
         src="https://d000d.com/e/yhelj1hhqyiv"
         frameborder="0"
