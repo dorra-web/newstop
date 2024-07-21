@@ -94,7 +94,7 @@ post_class: post-template
           {% if post.title %}
 <a href="{{ post.url | prepend: site.baseurl }}"
    class="recent_item"
-   style="background-image: url( {{ "https://blogger.googleusercontent.com/" | append: post.img }} )">
+   style="background-image: url( {{ "https://blogger.googleusercontent.com/" | append: post.image }} )">
     <span>{{ post.title }}</span>
 </a>
           {% endif %}
