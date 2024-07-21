@@ -1,2 +1,14 @@
 .recent_list{display:grid;grid-template-columns:repeat(3,1fr);grid-gap:22px}
 @media only screen and (max-width:580px){ul#related-summary{grid-template-columns:repeat(2,1fr)}}
+
+.recent_item {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    margin-left: 1.5%;
+    margin-bottom: 1.5%;
+    height: 180px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
