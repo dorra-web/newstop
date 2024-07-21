@@ -92,11 +92,11 @@ post_class: post-template
       <div class="recent_list">
         {% for post in site.posts offset:0 limit:6 %}
           {% if post.title %}
-            <a href="{{ post.url | prepend: site.baseurl }}"
-              class="recent_item"
-              style="background-image: url( {{ "https://blogger.googleusercontent.com/{{ post.image }}" | prepend: site.baseurl | append : post.img}} )">
-                <span>{{ post.title }}</span>
-            </a>
+<a href="{{ post.url | prepend: site.baseurl }}"
+   class="recent_item"
+   style="background-image: url( {{ "https://blogger.googleusercontent.com/" | append: post.img }} )">
+    <span>{{ post.title }}</span>
+</a>
           {% endif %}
         {% endfor %}
       </div>
