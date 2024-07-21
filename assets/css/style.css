@@ -1,5 +1,5 @@
 .recent_list{display:grid;grid-template-columns:repeat(3,1fr);grid-gap:22px}
-@media only screen and (max-width:580px){ul#related-summary{grid-template-columns:repeat(2,1fr)}}
+@media only screen and (max-width:580px){.recent_list{grid-template-columns:repeat(2,1fr)}}
 
 .recent_item {
     position: relative;
